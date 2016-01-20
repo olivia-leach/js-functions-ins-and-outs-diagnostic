@@ -1,6 +1,6 @@
 ![General Assembly Logo](http://i.imgur.com/ke8USTq.png)
 
-# Assessment for JavaScript Functions - "Ins & Outs"
+# Diagnostic for JavaScript Functions - "Ins & Outs"
 
 You have 30 minutes
 
