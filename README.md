@@ -13,3 +13,8 @@ Follow the prompts in `lib/assessment.js` and complete each question.  You may u
 Check your answers by running `grunt test`.  Check your code by running `grunt nag`. You can reformat your code with `grunt reformat`.
 
 When you are done, commit, push your changes, and submit a pull request.
+
+## [License](LICENSE)
+
+Source code distributed under the MIT license. Text and other assets copyright
+General Assembly, Inc., all rights reserved.
