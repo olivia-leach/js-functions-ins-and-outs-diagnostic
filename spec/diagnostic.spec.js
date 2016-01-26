@@ -6,8 +6,8 @@ describe('zero or more arguments', function() {
 
   describe('sum', function() {
 
-    it('returns 0 when called without arguments', function() {
-      expect(assessment.sum()).toBe(0);
+    it('returns undefined when called without arguments', function() {
+      expect(assessment.sum()).toBeUndefined();
     });
 
     it('returns the argument when called with just one', function() {
@@ -56,7 +56,7 @@ describe('array creation', function() {
         return length - index;
       };
 
-      expect(assessment.newArray2(length, defaultsFunction)).toEqual([3, 2, 1]);
+      expect(assessment.newArray(length, defaultsFunction)).toEqual([3, 2, 1]);
     });
 
   });
